@@ -2,13 +2,14 @@
 
 Budgerigar breeder & Python 3 enthusiast.
 
-Starting a new chapter soon. More later.
+Data Engineer @ EVONIK Porphyrio.
 
-- 🔭 I’m currently working with ELK+Kafka, Ansible Tower, ...
-- 🌱 I’m currently learning a lot more about pandas and numpy.
+- 🔭 Chickens, Python 3.8, AWS, docker, ...
+- 🌱 I’m currently getting to know a lot more python libraries.
 <!-- - 👯 I’m looking to collaborate on ...  -->
 <!-- - 🤔 I’m looking for help with ...  -->
-- 💬 Ask me about budgerigars.
+- 💬 Ask me about exhibition budgerigars, especially fallows.
+- 🗃️ Past technologies: Kafka, ElasticSearch (ELK), Ansible Tower, MongoDB, SSL/TLS, WebSphere Application Server (WAS), Tomcat.
 - 📫 How to reach me: https://bert.schilduil.org.
 <!-- - 😄 Pronouns: ... -->
-- ⚡ Fun fact: I'm probably wrong, but that is ok.
+- ⚡ Fun fact: Readability counts.
