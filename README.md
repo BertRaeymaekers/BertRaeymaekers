@@ -2,9 +2,9 @@
 
 Budgerigar breeder & Python 3 enthusiast.
 
-Data Engineer @ EVONIK Porphyrio.
+Data Engineer @ EVONIK Porphyrio 🐔.
 
-- 🔭 Chickens, Python 3.8, AWS, docker, ...
+- 🔭 Chickens 🐔, Python 3 🐍, AWS ☁️, docker 🐋, ...
 - 🌱 I’m currently getting to know a lot more python libraries.
 <!-- - 👯 I’m looking to collaborate on ...  -->
 <!-- - 🤔 I’m looking for help with ...  -->
