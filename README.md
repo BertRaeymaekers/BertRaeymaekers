@@ -2,7 +2,7 @@
 
 Budgerigar breeder & Python 3 enthusiast.
 
-Data Specialist @ VGC.
+Data Specialist @ [VGC](https://en.wikipedia.org/wiki/Flemish_Community_Commission).
 
 - 💡 Data modelling & visualization.
 - ⚙ Data processing & datawarehouse
